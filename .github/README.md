@@ -2,7 +2,7 @@
 
 #### Written in 1997 for Windows 95.
 
-[Original package](https://defacto2.net/f/a41896f)
+[Original package](https://defacto2.net/f/b12fb66)
 
 ```
   ┌──══════════════════════════════════════════════════════════════════════──┐
